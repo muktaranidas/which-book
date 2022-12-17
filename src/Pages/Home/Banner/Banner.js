@@ -14,7 +14,7 @@ const Banner = () => {
             titles, especially for those which are more popular, and you can
             often find them cheaper on here than elsewhere. Also, you're very
             likely to be familiar with how it works already, including checking
-            seller ratings and sorting by price.
+            seller ratings and sorting by price....
           </p>
           <button className="btn btn-primary">Get Started</button>
         </div>
