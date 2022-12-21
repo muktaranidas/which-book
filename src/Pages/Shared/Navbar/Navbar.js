@@ -18,7 +18,7 @@ const Navbar = () => {
         <Link to="/categories"> Categories</Link>
       </li>
       <li>
-        <Link to="/blog">Blog</Link>
+        <Link to="/contact">Contact</Link>
       </li>
       {user?.uid ? (
         <>

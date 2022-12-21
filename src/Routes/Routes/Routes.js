@@ -1,5 +1,6 @@
 import DashboardLayout from "../../Layout/DashboardLayout";
 import Blog from "../../Pages/Blog/Blog";
+import ContactUs from "../../Pages/ContactUs/ContactUs";
 import AddProduct from "../../Pages/Dashboard/AddProduct/AddProduct";
 import AllUsers from "../../Pages/Dashboard/AllUsers/AllUsers";
 import Dashboard from "../../Pages/Dashboard/Dashboard/Dashboard";
@@ -37,6 +38,10 @@ const router = createBrowserRouter([
       {
         path: "/categories",
         element: <Categories></Categories>,
+      },
+      {
+        path: "/contact",
+        element: <ContactUs></ContactUs>,
       },
       {
         path: "/categories/:categoryId",

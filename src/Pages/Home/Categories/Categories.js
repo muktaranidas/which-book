@@ -18,7 +18,7 @@ const Categories = () => {
       <p className="text-center text-secondary font-bold text-3xl">
         All Categories
       </p>
-      <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 ">
+      <div className="grid gap-4 mt-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 ">
         {categories.map((category) => (
           <Category key={category._id} category={category}></Category>
         ))}
