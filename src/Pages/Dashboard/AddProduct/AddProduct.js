@@ -28,7 +28,7 @@ const AddProduct = () => {
 
     // save product info to the database
     fetch(
-      "https://b612-used-products-resale-server-side-gamma.vercel.app/addProducts",
+      "https://b612-used-products-resale-server-side-muktaranidas.vercel.app/addProducts",
       {
         method: "POST",
         headers: {

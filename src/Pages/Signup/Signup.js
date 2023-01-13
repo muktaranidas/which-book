@@ -59,6 +59,7 @@ const SignUp = () => {
       .then((result) => {
         const user = result.user;
         console.log(user);
+        toast("User  Successfully Created");
       })
       .catch((err) => console.error(err));
   };
@@ -66,7 +67,7 @@ const SignUp = () => {
   const saveUser = (name, email, userType) => {
     const user = { name, email, userType };
     fetch(
-      "https://b612-used-products-resale-server-side-gamma.vercel.app/users",
+      "https://b612-used-products-resale-server-side-muktaranidas.vercel.app/users",
       {
         method: "POST",
         headers: {

@@ -16,7 +16,7 @@ const CheckoutForm = ({ booking }) => {
     // Create PaymentIntent as soon as the page loads
 
     fetch(
-      "https://b612-used-products-resale-server-side-gamma.vercel.app/create-payment-intent",
+      "https://b612-used-products-resale-server-side-muktaranidas.vercel.app/create-payment-intent",
       {
         method: "POST",
         headers: {
@@ -82,7 +82,7 @@ const CheckoutForm = ({ booking }) => {
       };
 
       fetch(
-        "https://b612-used-products-resale-server-side-gamma.vercel.app/payments",
+        "https://b612-used-products-resale-server-side-muktaranidas.vercel.app/payments",
 
         {
           method: "POST",

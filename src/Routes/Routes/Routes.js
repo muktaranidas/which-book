@@ -37,7 +37,11 @@ const router = createBrowserRouter([
       },
       {
         path: "/categories",
-        element: <Categories></Categories>,
+        element: (
+          // <PrivateRoute>
+          <Categories></Categories>
+          // </PrivateRoute>
+        ),
       },
       {
         path: "/contact",
@@ -47,7 +51,7 @@ const router = createBrowserRouter([
         path: "/categories/:categoryId",
         loader: ({ params }) =>
           fetch(
-            `https://b612-used-products-resale-server-side-gamma.vercel.app/categories/${params.categoryId}`
+            `https://b612-used-products-resale-server-side-muktaranidas.vercel.app/categories/${params.categoryId}`
           ),
         element: (
           <PrivateRoute>
@@ -111,7 +115,7 @@ const router = createBrowserRouter([
         element: <Payment></Payment>,
         loader: ({ params }) =>
           fetch(
-            `https://b612-used-products-resale-server-side-gamma.vercel.app/bookings/${params.id}`,
+            `https://b612-used-products-resale-server-side-muktaranidas.vercel.app/bookings/${params.id}`,
             {
               headers: {
                 "Content-Type": "application/json",

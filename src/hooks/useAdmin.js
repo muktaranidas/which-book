@@ -6,11 +6,11 @@ const useAdmin = (email) => {
   useEffect(() => {
     if (email) {
       fetch(
-        `https://b612-used-products-resale-server-side-gamma.vercel.app/users/admin/${email}`
+        `https://b612-used-products-resale-server-side-muktaranidas.vercel.app/users/admin/${email}`
       )
         .then((res) => res.json())
         .then((data) => {
-          console.log(data);
+          // console.log(data);
           setIsAdmin(data.isAdmin);
           setIsAdminLoading(false);
         });

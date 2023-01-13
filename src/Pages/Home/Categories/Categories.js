@@ -9,7 +9,7 @@ const Categories = () => {
     queryKey: ["categories"],
     queryFn: () =>
       fetch(
-        "https://b612-used-products-resale-server-side-gamma.vercel.app/categories"
+        "https://b612-used-products-resale-server-side-muktaranidas.vercel.app/categories"
       ).then((res) => res.json()),
   });
 

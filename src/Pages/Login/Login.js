@@ -1,5 +1,6 @@
 import React, { useContext, useState } from "react";
 import { useForm } from "react-hook-form";
+import { toast } from "react-hot-toast";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../../contexts/AuthProvider";
 
@@ -22,18 +23,19 @@ const Login = () => {
 
   const from = location.state?.from?.pathname || "/";
 
-  if (token) {
-    navigate(from, { replace: true });
-  }
+  // if (token) {
+  //   navigate(from, { replace: true });
+  // }
 
   const handleLogin = (data) => {
     console.log(data);
     setLoginError("");
-    signIn(data.email, data.password)
+    signIn(data?.email, data?.password)
       .then((result) => {
         const user = result.user;
         console.log(user);
-        setLoginUserEmail(data.email);
+        toast("User  Successfully Created");
+        setLoginUserEmail(data?.email);
       })
       .catch((err) => {
         console.error(err.message);
@@ -45,6 +47,7 @@ const Login = () => {
       .then((result) => {
         const user = result.user;
         console.log(user);
+        toast("User  Successfully Created");
       })
       .catch((err) => console.error(err));
   };

@@ -25,7 +25,7 @@ const BookingModal = ({ productItem, setProductItem }) => {
       location,
     };
     fetch(
-      "https://b612-used-products-resale-server-side-gamma.vercel.app/bookings",
+      "https://b612-used-products-resale-server-side-muktaranidas.vercel.app/bookings",
       {
         method: "POST",
         headers: {

@@ -7,7 +7,7 @@ const AllUsers = () => {
     queryKey: ["users"],
     queryFn: async () => {
       const res = await fetch(
-        "https://b612-used-products-resale-server-side-gamma.vercel.app/users"
+        "https://b612-used-products-resale-server-side-muktaranidas.vercel.app/users"
       );
       const data = await res.json();
       //   console.log(data);
@@ -16,7 +16,7 @@ const AllUsers = () => {
   });
   // const handleDeleteMyUser = (id) => {
   //   fetch(
-  //     `https://b612-used-products-resale-server-side-gamma.vercel.app/users/${id}`,
+  //     `https://b612-used-products-resale-server-side-muktaranidas.vercel.app/users/${id}`,
   //     {
   //       method: "DELETE",
   //       headers: {

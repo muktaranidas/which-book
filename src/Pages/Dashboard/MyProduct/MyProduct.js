@@ -21,7 +21,7 @@ const MyProduct = () => {
     queryFn: async () => {
       try {
         const res = await fetch(
-          "https://b612-used-products-resale-server-side-gamma.vercel.app/addProducts",
+          "https://b612-used-products-resale-server-side-muktaranidas.vercel.app/addProducts",
           {
             headers: {
               authorization: `bearer ${localStorage.getItem("accessToken")}`,
@@ -35,7 +35,7 @@ const MyProduct = () => {
   });
   const handleDeleteMyProduct = (addProduct) => {
     fetch(
-      `https://b612-used-products-resale-server-side-gamma.vercel.app/addProducts/${addProduct._id}`,
+      `https://b612-used-products-resale-server-side-muktaranidas.vercel.app/addProducts/${addProduct._id}`,
       {
         method: "DELETE",
         headers: {

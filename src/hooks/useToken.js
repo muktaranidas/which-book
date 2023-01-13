@@ -5,7 +5,7 @@ const useToken = (email) => {
   useEffect(() => {
     if (email) {
       fetch(
-        `https://b612-used-products-resale-server-side-gamma.vercel.app/jwt?email=${email}`
+        `https://b612-used-products-resale-server-side-muktaranidas.vercel.app/jwt?email=${email}`
       )
         .then((res) => res.json())
         .then((data) => {
