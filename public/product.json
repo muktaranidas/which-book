@@ -8,51 +8,95 @@
     "originalPrice": "400",
     "yearsOfUse": "1",
     "timeWhenItPosted": "10am",
-    "sellersName": "MuktaThakur"
+    "sellersName": "Neel"
+  },
+  {
+    "categoryId": "1",
+    "picture": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://francinerivers.com/wp-content/uploads/RedeemingLove-Cover-MTI-2110-scaled.jpg",
+    "name": "Redeeming Love",
+    "location": "Gulshan",
+    "resalePrice": "501",
+    "originalPrice": "701",
+    "yearsOfUse": "4",
+    "timeWhenItPosted": "00:10am",
+    "sellersName": "Nayon"
   },
   {
     "categoryId": "1",
     "picture": "https://qph.cf2.quoracdn.net/main-qimg-daec1754eb4235e058647058b16492cd-lq",
     "name": "Message in a bottle",
-    "location": "Mirpur2",
-    "resalePrice": "100",
-    "originalPrice": "400",
-    "yearsOfUse": "2",
-    "timeWhenItPosted": "10am",
-    "sellersName": "MuktaThakur"
+    "location": "Mohakhali",
+    "resalePrice": "308",
+    "originalPrice": "975",
+    "yearsOfUse": "6",
+    "timeWhenItPosted": "02:00am",
+    "sellersName": "Nibir"
+  },
+  {
+    "categoryId": "1",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/81r9a-CVpjL.jpg",
+    "name": "Message in a bottle",
+    "location": "Banani",
+    "resalePrice": "368",
+    "originalPrice": "665",
+    "yearsOfUse": "7",
+    "timeWhenItPosted": "05:00am",
+    "sellersName": "Bijoy"
   },
   {
     "categoryId": "2",
     "picture": "https://1.bp.blogspot.com/-L9UgWbyL-r4/XYd1P0bJQ_I/AAAAAAAAYCU/V6IFWO2qtbId0L2qiaj3ziNMNV8e-ewdACLcBGAsYHQ/s1600/Paramoy%2BLife%2Ber%2BParacetamol%2Bby%2BJhankar%2BMahbub%2B-%2BBangla%2BMotivational%2BPDF%2BBooks.jpg",
     "name": "Paramoy Life er Paracetamol",
-    "location": "Mirpur3",
-    "resalePrice": "300",
+    "location": "Brahmanbaria",
+    "resalePrice": "900",
     "originalPrice": "600",
-    "yearsOfUse": "3",
-    "timeWhenItPosted": "12am",
-    "sellersName": "PramaSaha"
+    "yearsOfUse": "6",
+    "timeWhenItPosted": "12:55am",
+    "sellersName": "Thakur Chan"
+  },
+  {
+    "categoryId": "2",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/514UPRCTj8L.jpg",
+    "name": "Dont't Give Up",
+    "location": "KhamarBari",
+    "resalePrice": "465",
+    "originalPrice": "600",
+    "yearsOfUse": "7",
+    "timeWhenItPosted": "07:50am",
+    "sellersName": "Minuty"
   },
   {
     "categoryId": "2",
     "picture": "https://1.bp.blogspot.com/-p2dm_cFEM0Y/XYobAJv9agI/AAAAAAAAYEs/QR1aUx_AwDMiZ8_3sgIlrnanTZ9T_hYZACLcBGAsYHQ/s1600/Recharge%2BYour%2BDown%2BBattery%2Bby%2BJhankar%2BMahbub%2B-%2B%2BBangla%2BMotivational%2BPDF%2BBooks.jpg",
     "name": "Recharge Your Down Battery",
-    "location": "Mirpur4",
-    "resalePrice": "350",
-    "originalPrice": "700",
-    "yearsOfUse": "4",
-    "timeWhenItPosted": "11am",
-    "sellersName": "PramaSaha"
+    "location": "Lalmatia",
+    "resalePrice": "3510",
+    "originalPrice": "1110",
+    "yearsOfUse": "14",
+    "timeWhenItPosted": "11:00am",
+    "sellersName": "Mukta"
+  },
+  {
+    "categoryId": "3",
+    "picture": "https://1.bp.blogspot.com/-iXTnE5XT1dY/XyZAVSmMWHI/AAAAAAAAcL0/2ODQRxz3bDQ56g2cgcGJul3CWMxZKOiSQCLcBGAsYHQ/s1600/Programming%2Ber%2BChouddogoshthi%2Bby%2BJhankar%2BMahbub%2B-%2BPDF%2BBangla%2BProgramming%2BBooks.jpg",
+    "name": "Programming er Chouddogoshthi",
+    "location": "Dhanmondi27",
+    "resalePrice": "20",
+    "originalPrice": "40",
+    "yearsOfUse": "8",
+    "timeWhenItPosted": "9am",
+    "sellersName": "Meghla"
   },
   {
     "categoryId": "3",
     "picture": "https://1.bp.blogspot.com/-iXTnE5XT1dY/XyZAVSmMWHI/AAAAAAAAcL0/2ODQRxz3bDQ56g2cgcGJul3CWMxZKOiSQCLcBGAsYHQ/s1600/Programming%2Ber%2BChouddogoshthi%2Bby%2BJhankar%2BMahbub%2B-%2BPDF%2BBangla%2BProgramming%2BBooks.jpg",
     "name": "Programming er Chouddogoshthi",
     "location": "Mirpur5",
-    "resalePrice": "200",
-    "originalPrice": "400",
-    "yearsOfUse": "5",
-    "timeWhenItPosted": "9am",
-    "sellersName": "Meghla"
+    "resalePrice": "430",
+    "originalPrice": "470",
+    "yearsOfUse": "3",
+    "timeWhenItPosted": "01:49am",
+    "sellersName": "Bilai"
   },
   {
     "categoryId": "3",
@@ -64,5 +108,169 @@
     "yearsOfUse": "6",
     "timeWhenItPosted": "10am",
     "sellersName": "Meghla"
+  },
+  {
+    "categoryId": "4",
+    "picture": "https://m.media-amazon.com/images/I/31v3ZdM7bOL._AC_SY780_.jpg",
+    "name": "Travel Bangladesh Challenge Book",
+    "location": "Dhanmondi",
+    "resalePrice": "119",
+    "originalPrice": "450",
+    "yearsOfUse": "4",
+    "timeWhenItPosted": "01:00am",
+    "sellersName": "Protima"
+  },
+  {
+    "categoryId": "4",
+    "picture": "https://d1jpltibqvso3j.cloudfront.net/images/product/317000/316486/250X360/316486.png",
+    "name": "Chote Jai Prokritir Rajje",
+    "location": "Dhanmondi",
+    "resalePrice": "198",
+    "originalPrice": "422",
+    "yearsOfUse": "1",
+    "timeWhenItPosted": "10:00am",
+    "sellersName": "Diviya"
+  },
+  {
+    "categoryId": "4",
+    "picture": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/5283b7aad_191732.PNG",
+    "name": "Paye Paye 64 Jela",
+    "location": "Farmgate",
+    "resalePrice": "490",
+    "originalPrice": "522",
+    "yearsOfUse": "5",
+    "timeWhenItPosted": "03:00am",
+    "sellersName": "Deepok"
+  },
+  {
+    "categoryId": "5",
+    "picture": "https://media.npr.org/assets/bakertaylor/covers/t/the-hitchhikers-guide-to-the-galaxy/9780345391803_custom-94fb9d4ba936bf0e6dff52bf2b7ad8c866f82470-s300-c85.jpg",
+    "name": "Douglas Adams",
+    "location": "Lalmatia",
+    "resalePrice": "970",
+    "originalPrice": "522",
+    "yearsOfUse": "1",
+    "timeWhenItPosted": "05:00am",
+    "sellersName": "Prama"
+  },
+  {
+    "categoryId": "5",
+    "picture": "https://media.npr.org/assets/bakertaylor/covers/t/the-lord-of-the-rings/9780618640157_custom-bd5c36cb700fafac72208e5f622a6d1a9ca85489-s300-c85.jpg",
+    "name": "Paye Paye 64 Jela",
+    "location": "Comilla",
+    "resalePrice": "560",
+    "originalPrice": "722",
+    "yearsOfUse": "3",
+    "timeWhenItPosted": "09:00am",
+    "sellersName": "Oyeishi"
+  },
+  {
+    "categoryId": "5",
+    "picture": "https://3.bp.blogspot.com/-B2M5pDGk0xY/V0YIO_GSOnI/AAAAAAAAJKM/wrP464POs6Aciks1DI1PfZLA0Mwg7DmQQCLcB/s1600/Eron%2Bby%2BMohammad%2BJafar%2BIqbal.jpg",
+    "name": "Iron",
+    "location": "Dhanmondi",
+    "resalePrice": "190",
+    "originalPrice": "442",
+    "yearsOfUse": "7",
+    "timeWhenItPosted": "08:00am",
+    "sellersName": "Sajid"
+  },
+  {
+    "categoryId": "6",
+    "picture": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471155550/the-liberation-9781471155550_hr.jpg",
+    "name": "The Liberation",
+    "location": "Bashabo",
+    "resalePrice": "390",
+    "originalPrice": "332",
+    "yearsOfUse": "2",
+    "timeWhenItPosted": "06:00am",
+    "sellersName": "Prosenjit"
+  },
+  {
+    "categoryId": "6",
+    "picture": "https://1.bp.blogspot.com/-t-CPXJVVMfY/WLjmLhr7m4I/AAAAAAAAMes/FeVoMSOxFVYglLf6kv8q3iZXS1a5Wha5ACLcB/s1600/Muktijuddho%2BKosh%2Bby%2BMuntasir%2BMamun.jpg",
+    "name": "Muktijuddho Kosh",
+    "location": "Komolapur",
+    "resalePrice": "690",
+    "originalPrice": "342",
+    "yearsOfUse": "3",
+    "timeWhenItPosted": "05:00am",
+    "sellersName": "Rana"
+  },
+  {
+    "categoryId": "6",
+    "picture": "https://bdebooks.com/wp-content/uploads/2021/03/Lokkho-Praner-Binimoye-By-Rafiqul-Islam-bdebooks.com_-185x278.jpg",
+    "name": "Lokkho Praner Binimoye",
+    "location": "Mohamodpur",
+    "resalePrice": "390",
+    "originalPrice": "542",
+    "yearsOfUse": "3",
+    "timeWhenItPosted": "04:00am",
+    "sellersName": "Fatema"
+  },
+  {
+    "categoryId": "7",
+    "picture": "https://m.media-amazon.com/images/I/71cNrvjN0mL.jpg",
+    "name": "Michio",
+    "location": "Komolapur",
+    "resalePrice": "550",
+    "originalPrice": "155",
+    "yearsOfUse": "4",
+    "timeWhenItPosted": "01:00am",
+    "sellersName": "Samir"
+  },
+  {
+    "categoryId": "7",
+    "picture": "https://m.media-amazon.com/images/I/51XXJKT1JZL.jpg",
+    "name": "Kaku Kaku",
+    "location": "Mohamodpur",
+    "resalePrice": "290",
+    "originalPrice": "142",
+    "yearsOfUse": "6",
+    "timeWhenItPosted": "04:00am",
+    "sellersName": "Shilpi"
+  },
+  {
+    "categoryId": "7",
+    "picture": "https://cdn.shopify.com/s/files/1/0285/2821/4050/files/guardians-of-zoone-1.jpg",
+    "name": "Lokkho Praner Binimoye",
+    "location": "Gulshan",
+    "resalePrice": "390",
+    "originalPrice": "542",
+    "yearsOfUse": "3",
+    "timeWhenItPosted": "02:00am",
+    "sellersName": "Anamika"
+  },
+  {
+    "categoryId": "8",
+    "picture": "https://www.urbanbae.com/media/uploads/products/c/3da8ae24d15ad78bbb74089abc00c07a.jpg",
+    "location": "Urbanbae",
+    "resalePrice": "990",
+    "originalPrice": "342",
+    "yearsOfUse": "6",
+    "timeWhenItPosted": "10:00am",
+    "sellersName": "Prantush"
+  },
+  {
+    "categoryId": "8",
+    "picture": "https://m.media-amazon.com/images/I/51EabDOKi8L._SL500_.jpg",
+    "name": "Lokkho Praner Binimoye",
+    "location": "Brahmanbaria",
+    "resalePrice": "890",
+    "originalPrice": "242",
+    "yearsOfUse": "3",
+    "timeWhenItPosted": "08:00am",
+    "sellersName": "Shimol"
+  },
+  {
+    "categoryId": "8",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYQtpFGeXCHlVsf0oVmh3G4HOdb0V34k2Fw&usqp=CAU",
+    "name": "C&E Publishing",
+    "location": "Rajshahi",
+    "resalePrice": "390",
+    "originalPrice": "542",
+    "yearsOfUse": "5",
+    "timeWhenItPosted": "01:00am",
+    "sellersName": "Tarapod"
   }
 ]
