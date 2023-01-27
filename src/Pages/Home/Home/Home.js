@@ -4,14 +4,18 @@ import Banner from "../Banner/Banner";
 import Categories from "../Categories/Categories";
 import SpecialBook from "../SpecialBook/SpecialBook";
 import UpdateNewBook from "../UpdateNewBook/UpdateNewBook";
+import Writter from "../Writter/Writter";
+import Review from "./Review/Review";
 
 const Home = () => {
   return (
     <div>
       <Banner></Banner>
       {/* <SpecialBook></SpecialBook> */}
+      <Writter></Writter>
       <Categories></Categories>
-      <UpdateNewBook></UpdateNewBook>
+      <Review></Review>
+      {/* <UpdateNewBook></UpdateNewBook> */}
     </div>
   );
 };
