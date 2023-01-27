@@ -3,6 +3,7 @@ import ContactUs from "../../ContactUs/ContactUs";
 import Banner from "../Banner/Banner";
 import Categories from "../Categories/Categories";
 import SpecialBook from "../SpecialBook/SpecialBook";
+import UpdateNewBook from "../UpdateNewBook/UpdateNewBook";
 
 const Home = () => {
   return (
@@ -10,7 +11,7 @@ const Home = () => {
       <Banner></Banner>
       {/* <SpecialBook></SpecialBook> */}
       <Categories></Categories>
-      <ContactUs></ContactUs>
+      <UpdateNewBook></UpdateNewBook>
     </div>
   );
 };
