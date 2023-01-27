@@ -5,6 +5,7 @@ import Categories from "../Categories/Categories";
 import SpecialBook from "../SpecialBook/SpecialBook";
 import UpdateNewBook from "../UpdateNewBook/UpdateNewBook";
 import Writter from "../Writter/Writter";
+import BestBook from "./BestBook/BestBook";
 import Review from "./Review/Review";
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
       {/* <SpecialBook></SpecialBook> */}
       <Writter></Writter>
       <Categories></Categories>
+      <BestBook></BestBook>
       <Review></Review>
       {/* <UpdateNewBook></UpdateNewBook> */}
     </div>
