@@ -15,7 +15,7 @@ const Home = () => {
       {/* <SpecialBook></SpecialBook> */}
       <Writter></Writter>
       <Categories></Categories>
-      <BestBook></BestBook>
+      {/* <BestBook></BestBook> */}
       <Review></Review>
       {/* <UpdateNewBook></UpdateNewBook> */}
     </div>

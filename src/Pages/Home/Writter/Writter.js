@@ -5,7 +5,7 @@ const Writter = () => {
     <section className="py-6 dark:bg-gray-800 dark:text-gray-100">
       <div className="container flex flex-col items-center justify-center p-4 mx-auto space-y-8 sm:p-10">
         <h1 className="text-4xl font-bold leading-none text-center sm:text-5xl">
-          Our team
+          Our Writter
         </h1>
         <p className="max-w-2xl text-center dark:text-gray-400">
           At a assumenda quas cum earum ut itaque commodi saepe rem aspernatur
