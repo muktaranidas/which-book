@@ -4,7 +4,7 @@ const Writter = () => {
   return (
     <section className="py-6 dark:bg-gray-800 dark:text-gray-100">
       <div className="container flex flex-col items-center justify-center p-4 mx-auto space-y-8 sm:p-10">
-        <h1 className="text-4xl font-bold leading-none text-center sm:text-5xl">
+        <h1 className="text-4xl font-bold leading-none text-center text-pink-600 sm:text-5xl">
           Our Writter
         </h1>
         <p className="max-w-2xl text-center dark:text-gray-400">
