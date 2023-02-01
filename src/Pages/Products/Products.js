@@ -9,7 +9,7 @@ const Products = () => {
   const [productItem, setProductItem] = useState(null);
 
   const products = useLoaderData();
-  // console.log(products);
+
   return (
     <div>
       <div className="grid  my-12 gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 ">
