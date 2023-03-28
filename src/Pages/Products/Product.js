@@ -15,7 +15,7 @@ const Product = ({ product, setProductItem }) => {
   return (
     <div className="card card-compact w-96 text-black bg-orange-300 shadow-xl">
       <figure>
-        <img src={picture} alt="Shoes" className="categoryImage" />
+        <img src={picture} alt="" className="categoryImage" />
       </figure>
       <div className="card-body ">
         <h2 className="card-title text-4xl text-pink-700">{name}</h2>
